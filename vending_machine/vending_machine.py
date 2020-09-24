@@ -1,2 +1,3 @@
 class VendingMachine:
-    pass
+    def insert(self, coin):
+        pass
